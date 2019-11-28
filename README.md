@@ -5,7 +5,7 @@
 [`jupyter/all-spark-notebook`](https://github.com/jupyter/docker-stacks/tree/master/all-spark-notebook) image is extended to include kafka and elasticsearch dependencies for spark framework.
 Use below command to build new image 
 ```
-docker build -t jupyter/my-spark-notebook:latest .
+docker build -t jupyter/my-spark-notebooks:latest .
 ```
 
 ## Quick Start
